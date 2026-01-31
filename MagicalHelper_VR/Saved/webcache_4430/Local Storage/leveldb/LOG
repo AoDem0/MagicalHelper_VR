@@ -1,0 +1,75 @@
+2026/01/31-13:18:36.786 3ae4 Reusing MANIFEST C:/Users/blued/Documents/Repozytoria/MagicalHelper/MagicalHelper/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/01/31-13:18:36.797 3ae4 Recovering log #3
+2026/01/31-13:18:36.798 3ae4 Reusing old log C:/Users/blued/Documents/Repozytoria/MagicalHelper/MagicalHelper/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/01/31-13:27:38.786 9ae4 Level-0 table #5: started
+2026/01/31-13:27:38.794 9ae4 Level-0 table #5: 51984 bytes OK
+2026/01/31-13:27:38.797 9ae4 Delete type=0 #3
+2026/01/31-13:31:38.788 3eec Level-0 table #7: started
+2026/01/31-13:31:38.792 3eec Level-0 table #7: 73959 bytes OK
+2026/01/31-13:31:38.794 3eec Delete type=0 #4
+2026/01/31-13:35:38.802 6f74 Level-0 table #9: started
+2026/01/31-13:35:38.811 6f74 Level-0 table #9: 73941 bytes OK
+2026/01/31-13:35:38.812 6f74 Delete type=0 #6
+2026/01/31-13:39:38.812 704c Level-0 table #11: started
+2026/01/31-13:39:38.820 704c Level-0 table #11: 73941 bytes OK
+2026/01/31-13:39:38.822 704c Delete type=0 #8
+2026/01/31-13:43:38.807 6b78 Level-0 table #13: started
+2026/01/31-13:43:38.811 6b78 Level-0 table #13: 73941 bytes OK
+2026/01/31-13:43:38.812 6b78 Delete type=0 #10
+2026/01/31-13:47:38.820 10bc Level-0 table #15: started
+2026/01/31-13:47:38.825 10bc Level-0 table #15: 73941 bytes OK
+2026/01/31-13:47:38.827 10bc Delete type=0 #12
+2026/01/31-13:47:38.827 10bc Compacting 4@0 + 1@1 files
+2026/01/31-13:47:38.831 10bc Generated table #16@0: 3 keys, 18568 bytes
+2026/01/31-13:47:38.831 10bc Compacted 4@0 + 1@1 files => 18568 bytes
+2026/01/31-13:47:38.832 10bc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/31-13:47:38.833 10bc Delete type=2 #7
+2026/01/31-13:47:38.833 10bc Delete type=2 #9
+2026/01/31-13:47:38.833 10bc Delete type=2 #11
+2026/01/31-13:47:38.833 10bc Delete type=2 #13
+2026/01/31-13:47:38.833 10bc Delete type=2 #15
+2026/01/31-13:51:38.827 98b8 Level-0 table #18: started
+2026/01/31-13:51:38.831 98b8 Level-0 table #18: 83704 bytes OK
+2026/01/31-13:51:38.832 98b8 Delete type=0 #14
+2026/01/31-13:54:38.841 7734 Level-0 table #20: started
+2026/01/31-13:54:38.844 7734 Level-0 table #20: 87434 bytes OK
+2026/01/31-13:54:38.846 7734 Delete type=0 #17
+2026/01/31-14:03:05.402 8b9c Level-0 table #22: started
+2026/01/31-14:03:05.406 8b9c Level-0 table #22: 62627 bytes OK
+2026/01/31-14:03:05.407 8b9c Delete type=0 #19
+2026/01/31-14:03:15.918 7734 Level-0 table #24: started
+2026/01/31-14:03:15.922 7734 Level-0 table #24: 64662 bytes OK
+2026/01/31-14:03:15.923 7734 Delete type=0 #21
+2026/01/31-14:03:15.923 7734 Compacting 4@0 + 1@1 files
+2026/01/31-14:03:15.925 7734 Generated table #25@0: 3 keys, 32688 bytes
+2026/01/31-14:03:15.925 7734 Compacted 4@0 + 1@1 files => 32688 bytes
+2026/01/31-14:03:15.925 7734 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/31-14:03:15.926 7734 Delete type=2 #16
+2026/01/31-14:03:15.926 7734 Delete type=2 #18
+2026/01/31-14:03:15.926 7734 Delete type=2 #20
+2026/01/31-14:03:15.926 7734 Delete type=2 #22
+2026/01/31-14:03:15.926 7734 Delete type=2 #24
+2026/01/31-14:04:46.816 735c Level-0 table #27: started
+2026/01/31-14:04:46.818 735c Level-0 table #27: 66303 bytes OK
+2026/01/31-14:04:46.819 735c Delete type=0 #23
+2026/01/31-14:05:09.534 7734 Level-0 table #29: started
+2026/01/31-14:05:09.556 7734 Level-0 table #29: 67387 bytes OK
+2026/01/31-14:05:09.557 7734 Delete type=0 #26
+2026/01/31-14:05:30.228 735c Level-0 table #31: started
+2026/01/31-14:05:30.230 735c Level-0 table #31: 69570 bytes OK
+2026/01/31-14:05:30.231 735c Delete type=0 #28
+2026/01/31-14:06:38.845 8268 Level-0 table #33: started
+2026/01/31-14:06:38.849 8268 Level-0 table #33: 71775 bytes OK
+2026/01/31-14:06:38.851 8268 Delete type=0 #30
+2026/01/31-14:06:38.851 8268 Compacting 4@0 + 1@1 files
+2026/01/31-14:06:38.853 8268 Generated table #34@0: 3 keys, 36196 bytes
+2026/01/31-14:06:38.853 8268 Compacted 4@0 + 1@1 files => 36196 bytes
+2026/01/31-14:06:38.853 8268 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/31-14:06:38.854 8268 Delete type=2 #25
+2026/01/31-14:06:38.854 8268 Delete type=2 #27
+2026/01/31-14:06:38.854 8268 Delete type=2 #29
+2026/01/31-14:06:38.854 8268 Delete type=2 #31
+2026/01/31-14:06:38.854 8268 Delete type=2 #33
+2026/01/31-14:08:38.861 6084 Level-0 table #36: started
+2026/01/31-14:08:38.864 6084 Level-0 table #36: 74958 bytes OK
+2026/01/31-14:08:38.865 6084 Delete type=0 #32
