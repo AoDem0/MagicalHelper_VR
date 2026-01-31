@@ -5,13 +5,24 @@
 	"Description": "",
 	"Plugins": [
 		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
 			"Name": "OpenXR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android",
-				"VisionOS"
+				"LinuxArm64",
+				"Android"
 			]
 		},
 		{
@@ -20,6 +31,7 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
+				"LinuxArm64",
 				"Android"
 			]
 		},
@@ -29,23 +41,9 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android",
-				"VisionOS"
+				"LinuxArm64",
+				"Android"
 			]
 		}
-	],
-	"TargetPlatforms": [
-		"Android",
-		"IOS",
-		"Linux",
-		"Mac",
-		"PS4",
-		"PS5",
-		"Windows",
-		"WindowsNoEditor",
-		"Switch",
-		"XboxOne",
-		"XSX",
-		"VisionOS"
 	]
 }
